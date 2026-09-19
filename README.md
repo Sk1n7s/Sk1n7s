@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Артём 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=500&lines=Учусь+на+программиста+%F0%9F%92%BB;Пишу+код+и+строю+проекты;Всегда+учусь+чему-то+новому" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=520&height=60&lines=Привет%2C+я+Артём+%F0%9F%91%8B;Учусь+на+программиста+%F0%9F%92%BB;Пишу+код+и+строю+проекты+%F0%9F%9A%80;Всегда+учусь+чему-то+новому+%F0%9F%8C%B1;Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
 </p>
 
 <p align="center">
