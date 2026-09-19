@@ -23,7 +23,7 @@
 ### 🛠️ Технологии, с которыми работаю
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html&perline=4" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html&perline=3" />
   <br/>
   <img src="https://skillicons.dev/icons?i=css,git,github&perline=3" />
 </p>
