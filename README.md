@@ -23,7 +23,7 @@
 ### 🛠️ Технологии, с которыми работаю
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=,cpp,js,html,css,git,github,,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=,cpp,js,html,css,git,github,,vscode&perline=7" />
 </p>
 
 > Оставь только те иконки, которые реально знаешь. Список всех доступных: [skillicons.dev](https://skillicons.dev)
