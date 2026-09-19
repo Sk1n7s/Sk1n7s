@@ -45,8 +45,6 @@
 ### 🚀 Мои проекты
 
 - 🔹 [AIP-lab](https://github.com/Sk1n7s/AIP-lab) — учебные работы и лабораторные
-- 🔹 [Проект 2](https://github.com/Sk1n7s) — короткое описание
-- 🔹 [Проект 3](https://github.com/Sk1n7s) — короткое описание
 
 ---
 
